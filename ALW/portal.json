@@ -1,0 +1,494 @@
+{
+ "portal": "BuildEase ICF Project Environment",
+ "project": {
+  "client": "Beech Developments (NW) Ltd",
+  "job": "Maes Y Felin, Glan Conwy - Alwen",
+  "number_prefix": "ES26-020-ALW",
+  "status": "FOR APPROVAL",
+  "revision": "P01",
+  "model_title": "ES26-020-ALW Maes Y Felin, Glan Conwy - Alwen - Approval P01"
+ },
+ "default_view": "stage-6",
+ "views": [
+  {
+   "id": "stage-1",
+   "kind": "stage",
+   "n": 1,
+   "title": "Raft and raft-edge ICF",
+   "desc": "The raft and its edge AS PER THE ARCHITECTURAL DRAWINGS (section A-A: 257.2 RC slab on 2 x 100 PIR on 150 Type 3 MOT); one course (457.2) of Nudura 6in XR35 round the edge - the single-sided, unassembled panel edge that forms the raft.",
+   "focus": false
+  },
+  {
+   "id": "stage-2",
+   "kind": "stage",
+   "n": 2,
+   "title": "Ground-floor ICF and partitions",
+   "desc": "Nudura 6in XR35 external walls and the 6in Standard party wall to the L1 / L2 form joint (2,743.2), openings with the 25 mm external overfly and timber closers (no end caps, no lintels), and the ground-floor timber stud partitions (design assumption, drawn as Beech's plans).",
+   "focus": false
+  },
+  {
+   "id": "stage-3",
+   "kind": "stage",
+   "n": 3,
+   "title": "First floor and stair",
+   "desc": "253 metal-web joists @ 600 top-hung on cut-down Strong-Tie ICF ledgers, 22 deck (joist ledger by the engineer), the timber straight-flight stair (13 x 200 / 223) and the bulkhead store (design assumptions).",
+   "focus": false
+  },
+  {
+   "id": "stage-4",
+   "kind": "stage",
+   "n": 4,
+   "title": "First-floor ICF and partitions",
+   "desc": "Nudura first-floor walls to the eaves (5,029.2 flat, plate 5,076), gables raked under the ladder, the party wall to the roof line, openings as the ground floor, and the first-floor timber stud partitions.",
+   "focus": false
+  },
+  {
+   "id": "stage-5",
+   "kind": "stage",
+   "n": 5,
+   "title": "Roof structure",
+   "desc": "Fink trussed rafters @ 600, 35 deg, with 47 x 122 TR26 gable ladders and timber closers on 47 x 150 wall plates (design assumption, for the truss manufacturer).",
+   "focus": false
+  },
+  {
+   "id": "stage-6",
+   "kind": "stage",
+   "n": 6,
+   "title": "Windows and doors",
+   "desc": "UPVC windows and doors tight to the back of the 25 overfly; front doors with vision panel, letter plate and peephole; obscure glazing, escape casements and safety glazing as Beech's schedule.",
+   "focus": false
+  },
+  {
+   "id": "elev-N",
+   "kind": "elevation",
+   "n": 6,
+   "title": "North elevation",
+   "dir": [
+    0.0,
+    0.12,
+    -1.0
+   ],
+   "desc": "Complete structure seen from the north."
+  },
+  {
+   "id": "elev-S",
+   "kind": "elevation",
+   "n": 6,
+   "title": "South elevation",
+   "dir": [
+    0.0,
+    0.12,
+    1.0
+   ],
+   "desc": "Complete structure seen from the south."
+  },
+  {
+   "id": "elev-E",
+   "kind": "elevation",
+   "n": 6,
+   "title": "East elevation",
+   "dir": [
+    1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the east."
+  },
+  {
+   "id": "elev-W",
+   "kind": "elevation",
+   "n": 6,
+   "title": "West elevation",
+   "dir": [
+    -1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the west."
+  }
+ ],
+ "stages": [
+  {
+   "n": 1,
+   "title": "Raft and raft-edge ICF",
+   "desc": "The raft and its edge AS PER THE ARCHITECTURAL DRAWINGS (section A-A: 257.2 RC slab on 2 x 100 PIR on 150 Type 3 MOT); one course (457.2) of Nudura 6in XR35 round the edge - the single-sided, unassembled panel edge that forms the raft.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 22244
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground-floor ICF and partitions",
+   "desc": "Nudura 6in XR35 external walls and the 6in Standard party wall to the L1 / L2 form joint (2,743.2), openings with the 25 mm external overfly and timber closers (no end caps, no lintels), and the ground-floor timber stud partitions (design assumption, drawn as Beech's plans).",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 702480
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First floor and stair",
+   "desc": "253 metal-web joists @ 600 top-hung on cut-down Strong-Tie ICF ledgers, 22 deck (joist ledger by the engineer), the timber straight-flight stair (13 x 200 / 223) and the bulkhead store (design assumptions).",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 258516
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "First-floor ICF and partitions",
+   "desc": "Nudura first-floor walls to the eaves (5,029.2 flat, plate 5,076), gables raked under the ladder, the party wall to the roof line, openings as the ground floor, and the first-floor timber stud partitions.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 798348
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Roof structure",
+   "desc": "Fink trussed rafters @ 600, 35 deg, with 47 x 122 TR26 gable ladders and timber closers on 47 x 150 wall plates (design assumption, for the truss manufacturer).",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 92292
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Windows and doors",
+   "desc": "UPVC windows and doors tight to the back of the 25 overfly; front doors with vision panel, letter plate and peephole; obscure glazing, escape casements and safety glazing as Beech's schedule.",
+   "files": [
+    {
+     "glb": "stage-6.glb",
+     "part": null,
+     "label": null,
+     "bytes": 119760
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "icf",
+   "title": "ICF drawings",
+   "note": "General arrangements (raft edge, ground and first floor ICF with the timber partitions), elevations and sections A-A (through the front windows) and B-B (through the stair).",
+   "zip": {
+    "file": "downloads/ES26-020-ALW ICF drawings.zip",
+    "bytes": 455082,
+    "count": 7
+   },
+   "docs": [
+    {
+     "id": "ES26-020-ALW-GA-01",
+     "title": "Alwen - Raft Edge ICF",
+     "file": "docs/icf/ES26-020-ALW-GA-01 Alwen - Raft Edge ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-GA-01.png",
+     "bytes": 55191,
+     "number": "ES26-020-ALW-GA-01",
+     "view": "stage-1",
+     "view_opts": {},
+     "cad": {
+      "file": "downloads/cad/ES26-020-ALW-GA-01 CAD.zip",
+      "bytes": 70277,
+      "count": 4
+     }
+    },
+    {
+     "id": "ES26-020-ALW-GA-02",
+     "title": "Alwen - Ground Floor ICF and Partitions",
+     "file": "docs/icf/ES26-020-ALW-GA-02 Alwen - Ground Floor ICF and Partitions.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-GA-02.png",
+     "bytes": 67299,
+     "number": "ES26-020-ALW-GA-02",
+     "view": "stage-2",
+     "view_opts": {},
+     "cad": {
+      "file": "downloads/cad/ES26-020-ALW-GA-02 CAD.zip",
+      "bytes": 157126,
+      "count": 4
+     }
+    },
+    {
+     "id": "ES26-020-ALW-GA-03",
+     "title": "Alwen - First Floor ICF and Partitions",
+     "file": "docs/icf/ES26-020-ALW-GA-03 Alwen - First Floor ICF and Partitions.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-GA-03.png",
+     "bytes": 69355,
+     "number": "ES26-020-ALW-GA-03",
+     "view": "stage-4",
+     "view_opts": {},
+     "cad": {
+      "file": "downloads/cad/ES26-020-ALW-GA-03 CAD.zip",
+      "bytes": 172798,
+      "count": 4
+     }
+    },
+    {
+     "id": "ES26-020-ALW-EL-01",
+     "title": "North and South Elevations",
+     "file": "docs/icf/ES26-020-ALW-EL-01 North and South Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-EL-01.png",
+     "bytes": 116613,
+     "number": "ES26-020-ALW-EL-01",
+     "view": "elev-N",
+     "view_opts": {},
+     "cad": {
+      "file": "downloads/cad/ES26-020-ALW-EL-01 CAD.zip",
+      "bytes": 678825,
+      "count": 6
+     }
+    },
+    {
+     "id": "ES26-020-ALW-EL-02",
+     "title": "East and West Elevations",
+     "file": "docs/icf/ES26-020-ALW-EL-02 East and West Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-EL-02.png",
+     "bytes": 101833,
+     "number": "ES26-020-ALW-EL-02",
+     "view": "elev-E",
+     "view_opts": {},
+     "cad": {
+      "file": "downloads/cad/ES26-020-ALW-EL-02 CAD.zip",
+      "bytes": 592714,
+      "count": 6
+     }
+    },
+    {
+     "id": "ES26-020-ALW-SE-01",
+     "title": "Section A-A",
+     "file": "docs/icf/ES26-020-ALW-SE-01 Section A-A.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-SE-01.png",
+     "bytes": 81629,
+     "number": "ES26-020-ALW-SE-01",
+     "view": "stage-6",
+     "view_opts": {},
+     "cad": {
+      "file": "downloads/cad/ES26-020-ALW-SE-01 CAD.zip",
+      "bytes": 311091,
+      "count": 4
+     }
+    },
+    {
+     "id": "ES26-020-ALW-SE-02",
+     "title": "Section B-B",
+     "file": "docs/icf/ES26-020-ALW-SE-02 Section B-B.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-SE-02.png",
+     "bytes": 74971,
+     "number": "ES26-020-ALW-SE-02",
+     "view": "stage-6",
+     "view_opts": {},
+     "cad": {
+      "file": "downloads/cad/ES26-020-ALW-SE-02 CAD.zip",
+      "bytes": 209774,
+      "count": 4
+     }
+    }
+   ],
+   "downloads": [
+    {
+     "file": "downloads/ES26-020-ALW CAD drawings (DWG + DXF).zip",
+     "title": "All CAD drawings (DWG + DXF, ZIP, 64 files, 2.9 MB)"
+    },
+    {
+     "file": "downloads/ES26-020-ALW Alwen - SketchUp model P01.skp",
+     "title": "SketchUp model - every Nudura form as laid (SketchUp 2026) (3.0 MB)"
+    }
+   ]
+  },
+  {
+   "id": "struct",
+   "title": "Roof and first floor",
+   "note": "Roof truss layout and truss profiles, first-floor joist layout and joist end conditions - design assumptions for the truss and joist suppliers.",
+   "zip": {
+    "file": "downloads/ES26-020-ALW Roof and first floor.zip",
+    "bytes": 248926,
+    "count": 5
+   },
+   "docs": [
+    {
+     "id": "ES26-020-ALW-FL-01",
+     "title": "Alwen - First Floor Layout",
+     "file": "docs/struct/ES26-020-ALW-FL-01 Alwen - First Floor Layout.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-FL-01.png",
+     "bytes": 75447,
+     "number": "ES26-020-ALW-FL-01",
+     "view": "stage-3",
+     "view_opts": {},
+     "cad": {
+      "file": "downloads/cad/ES26-020-ALW-FL-01 CAD.zip",
+      "bytes": 228979,
+      "count": 6
+     }
+    },
+    {
+     "id": "ES26-020-ALW-FL-02",
+     "title": "Alwen - Floor Joist Profiles",
+     "file": "docs/struct/ES26-020-ALW-FL-02 Alwen - Floor Joist Profiles.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-FL-02.png",
+     "bytes": 59159,
+     "number": "ES26-020-ALW-FL-02",
+     "view": "stage-3",
+     "view_opts": {},
+     "cad": {
+      "file": "downloads/cad/ES26-020-ALW-FL-02 CAD.zip",
+      "bytes": 172423,
+      "count": 12
+     }
+    },
+    {
+     "id": "ES26-020-ALW-RF-00",
+     "title": "Alwen - Wall Plate Setting-Out for the Truss Designer",
+     "file": "docs/struct/ES26-020-ALW-RF-00 Alwen - Wall Plate Setting-Out for the Truss Designer.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-RF-00.png",
+     "bytes": 59631,
+     "number": "ES26-020-ALW-RF-00",
+     "view": "stage-5",
+     "view_opts": {},
+     "cad": {
+      "file": "downloads/cad/ES26-020-ALW-RF-00 CAD.zip",
+      "bytes": 114267,
+      "count": 6
+     }
+    },
+    {
+     "id": "ES26-020-ALW-RF-01",
+     "title": "Alwen - Roof Truss Layout",
+     "file": "docs/struct/ES26-020-ALW-RF-01 Alwen - Roof Truss Layout.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-RF-01.png",
+     "bytes": 61742,
+     "number": "ES26-020-ALW-RF-01",
+     "view": "stage-5",
+     "view_opts": {},
+     "cad": {
+      "file": "downloads/cad/ES26-020-ALW-RF-01 CAD.zip",
+      "bytes": 112898,
+      "count": 4
+     }
+    },
+    {
+     "id": "ES26-020-ALW-RF-02",
+     "title": "Alwen - Truss Profiles",
+     "file": "docs/struct/ES26-020-ALW-RF-02 Alwen - Truss Profiles.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-RF-02.png",
+     "bytes": 54894,
+     "number": "ES26-020-ALW-RF-02",
+     "view": "stage-5",
+     "view_opts": {},
+     "cad": {
+      "file": "downloads/cad/ES26-020-ALW-RF-02 CAD.zip",
+      "bytes": 62654,
+      "count": 4
+     }
+    }
+   ]
+  },
+  {
+   "id": "details",
+   "title": "Details",
+   "note": "DT-01 opening details (jamb, head, cill), DT-02 raft edge, DT-03 eaves and wall plate, DT-04 first floor at the ICF - true scale over Beech's own CAD, every component called out.",
+   "zip": {
+    "file": "downloads/ES26-020-ALW Details.zip",
+    "bytes": 495968,
+    "count": 4
+   },
+   "docs": [
+    {
+     "id": "ES26-020-ALW-DT-01",
+     "title": "Opening Details - Jamb, Head and Cill",
+     "file": "docs/details/ES26-020-ALW-DT-01 Opening Details - Jamb, Head and Cill.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-DT-01.png",
+     "bytes": 200110,
+     "number": "ES26-020-ALW-DT-01",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-020-ALW-DT-02",
+     "title": "Raft Edge Detail",
+     "file": "docs/details/ES26-020-ALW-DT-02 Raft Edge Detail.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-DT-02.png",
+     "bytes": 138129,
+     "number": "ES26-020-ALW-DT-02",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-020-ALW-DT-03",
+     "title": "Eaves Detail - Wall Plate on the ICF Core",
+     "file": "docs/details/ES26-020-ALW-DT-03 Eaves Detail - Wall Plate on the ICF Core.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-DT-03.png",
+     "bytes": 128364,
+     "number": "ES26-020-ALW-DT-03",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-020-ALW-DT-04",
+     "title": "First Floor Detail - Top-Hung Joists at the ICF",
+     "file": "docs/details/ES26-020-ALW-DT-04 First Floor Detail - Top-Hung Joists at the ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-020-ALW-DT-04.png",
+     "bytes": 134275,
+     "number": "ES26-020-ALW-DT-04",
+     "view": "stage-6",
+     "view_opts": {}
+    }
+   ]
+  }
+ ],
+ "focus": null,
+ "isolate_stages": false,
+ "toggles": [
+  {
+   "label": "Floor deck",
+   "materials": [
+    "Egger Protect P5 deck"
+   ],
+   "default": true,
+   "stages": [
+    3
+   ]
+  }
+ ],
+ "download_all": {
+  "file": "downloads/ES26-020-ALW Maes Y Felin, Glan Conwy - Alwen - For Approval P01.zip",
+  "bytes": 5076511,
+  "count": 49,
+  "title": "Download everything"
+ }
+}
