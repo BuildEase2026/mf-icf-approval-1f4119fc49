@@ -1,0 +1,84 @@
+{
+ "job": "Maes Y Felin, Glan Conwy - 3B4P",
+ "revision": "P01",
+ "stages": [
+  {
+   "n": 1,
+   "title": "Raft and raft-edge ICF",
+   "desc": "The raft and its edge AS PER THE ARCHITECTURAL DRAWINGS (section A-A: 257.2 RC slab on 2 x 100 PIR on 150 Type 3 MOT); one course (457.2) of Nudura 6in XR35 round the edge - the single-sided, unassembled panel edge that forms the raft.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 21896
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground-floor ICF and partitions",
+   "desc": "Nudura 6in XR35 external walls and the 6in Standard party wall to the L1 / L2 form joint (2,743.2), openings with the 25 mm external overfly and timber closers (no end caps, no lintels), and the ground-floor timber stud partitions (design assumption, drawn as Beech's plans).",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 765004
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First floor and stair",
+   "desc": "253 metal-web joists @ 600 top-hung on cut-down Strong-Tie ICF ledgers, 22 deck (joist ledger by the engineer), the timber straight-flight stair (13 x 200 / 223) and the bulkhead store (design assumptions).",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 255384
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "First-floor ICF and partitions",
+   "desc": "Nudura first-floor walls to the eaves (5,029.2 flat, plate 5,076), gables raked under the ladder, the party wall to the roof line, openings as the ground floor, and the first-floor timber stud partitions.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 809056
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Roof structure",
+   "desc": "Fink trussed rafters @ 600, 35 deg, with 47 x 122 TR26 gable ladders and timber closers on 47 x 150 wall plates (design assumption, for the truss manufacturer).",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 101492
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Windows and doors",
+   "desc": "UPVC windows and doors tight to the back of the 25 overfly; front doors with vision panel, letter plate and peephole; obscure glazing, escape casements and safety glazing as Beech's schedule.",
+   "files": [
+    {
+     "glb": "stage-6.glb",
+     "part": null,
+     "label": null,
+     "bytes": 142880
+    }
+   ]
+  }
+ ]
+}
